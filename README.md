@@ -1,7 +1,7 @@
 # PC-SAFT-EoS
 methanol+1-octanol VLE
 
-To initiate the PC-SAFT EOS code to model binary methanol+1-octanol VLE run the "VLEMethanolOctanol.m".script.
+To initiate the PC-SAFT EOS code to model binary methanol+1-octanol VLE run the "VLEMethanolOctanol.m" script.
 ##
 **Comparison with the original manuscript:**
 
